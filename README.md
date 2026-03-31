@@ -4,12 +4,11 @@ I’m Trissia. I’m a Mobile Application QA Tester and a freelance graphic arti
 
 On this portfolio, I would like to share my knowledge and skills as QA I have gained through my experience as an employee, and in self-study. I am determined to continue to enhance my skills on this field. Currently, I am learning web and app test automation and API testing.
 
-💼 QA Tester | API Testing Enthusiast  
+💼 QA Tester | Freelance Graphic Designer
 🔍 Core skills in Manual Testing, UI/UX Designing  
 
-## 🚀 Links
+## 🚀 Profile Link
 - 🔗 [My Portfolio](https://universal-meter-4b3.notion.site/Workfolio-29a361c3fe98810abd79c4e6f32ed09d?source=copy_link)
-- 🔗 [Automation Scrip](link-here)
 
 ## 🛠 Tools
 - Postman
@@ -18,4 +17,16 @@ On this portfolio, I would like to share my knowledge and skills as QA I have ga
 - Figma
 - Kotlin
 - Android studio
+
+## 📁 Soft Skills
+- Attention to detail
+- Goal oriented
+- Communication
+- Patience
+- Reliable
+
+## 🏆 Certifications
+- 🔗 [AWS Academy](https://drive.google.com/drive/folders/1LXfJqPafSsV0SrtwjQ0uilCcyLGJclkN?usp=sharing)
+- 🔗 [CISCO Introduction to Network](https://drive.google.com/drive/folders/1yqO9CST4sAvdXfuj1r-DB_X1kUCUwWbv?usp=sharing)
+- 🔗 [GreatLearning - Soft Skills for IT](https://www.mygreatlearning.com/certificate/NHMEMRTW)
 
