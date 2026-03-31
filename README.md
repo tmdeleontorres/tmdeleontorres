@@ -5,6 +5,7 @@ I’m Trissia. I’m a Mobile Application QA Tester and a freelance graphic arti
 On this portfolio, I would like to share my knowledge and skills as QA I have gained through my experience as an employee, and in self-study. I am determined to continue to enhance my skills on this field. Currently, I am learning web and app test automation and API testing.
 
 💼 QA Tester | Freelance Graphic Designer
+
 🔍 Core skills in Manual Testing, UI/UX Designing  
 
 ## 🚀 Profile Link
