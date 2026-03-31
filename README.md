@@ -8,7 +8,7 @@ On this portfolio, I would like to share my knowledge and skills as QA I have ga
 🔍 Core skills in Manual Testing, UI/UX Designing  
 
 ## 🚀 Links
-- 🔗 [My Portfolio]([link-here](https://universal-meter-4b3.notion.site/Workfolio-29a361c3fe98810abd79c4e6f32ed09d?source=copy_link))
+- 🔗 [My Portfolio](https://universal-meter-4b3.notion.site/Workfolio-29a361c3fe98810abd79c4e6f32ed09d?source=copy_link)
 - 🔗 [Automation Scrip](link-here)
 
 ## 🛠 Tools
